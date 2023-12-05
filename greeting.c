@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hi! Welcome to my first greeting.");
+	printf("Hi! Welcome to my second greeting.");
 	return 0;
 }
